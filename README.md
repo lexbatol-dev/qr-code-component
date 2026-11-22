@@ -5,12 +5,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
+    - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [AI Collaboration](#ai-collaboration)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 
 ## Overview
@@ -38,12 +38,12 @@ This project helped me put several HTML and CSS concepts into practice.
 - **The box model:** I used `box-sizing: border-box` so element sizes are more predictable, especially when combining padding with a maximum width.
 - **Responsive images:** I learned how to stop an image from overflowing its container, and how `display: block` removes the small gap under an image:
 
-  ```css
-  img {
-    width: 100%;
-    display: block;
-  }
-  ```
+    ```css
+    .card img {
+        width: 100%;
+        display: block;
+    }
+    ```
 
 - **CSS custom properties:** I used CSS variables for the challenge's colour palette, which makes the styles easier to maintain.
 
@@ -51,9 +51,9 @@ This project helped me put several HTML and CSS concepts into practice.
 
 - I want to keep improving at turning a design into a working layout without relying heavily on tutorials.
 - In future projects, I plan to focus on:
-  - Building more complex layouts with CSS Grid and Flexbox.
-  - Improving my responsive design and testing skills.
-  - Writing more accessible HTML and CSS.
+    - Building more complex layouts with CSS Grid and Flexbox.
+    - Improving my responsive design and testing skills.
+    - Writing more accessible HTML and CSS.
 
 ### AI Collaboration
 
